@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @samtin0x
-- 👀 I’m interested in data scraping at scale and clickstream
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 LinkedIn
+- 👀 DeFi Research: off-chain and on-chain data expert. Interested in data scraping at scale and human behaviour.
 
 <!---
 samtin0x/samtin0x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
