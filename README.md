@@ -4,12 +4,12 @@
 - Expertise: off-chain and on-chain data adquisition, algoritmic behavioural sciences.
 - Researching: DeFi & Projects
 
-### Building
+### Building:
   - On-Chain data ETL pipelines (EVM, non-EVM, Tendermint, etc...)
   - Blokchain Staking Dashboards
   - Saas Applications
 
-### engage
+### Engage:
 👁 [LinkedIn](https://linkedin.com/in/saul-martin)
 
 EN | ES | CN 
