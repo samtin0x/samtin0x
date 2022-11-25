@@ -2,7 +2,7 @@
 
 - I do analytics at scale 
 - Expertise: off-chain and on-chain data adquisition, algoritmic behavioural sciences.
-- Researching: DeFi & Projects
+- Researching: DeFi & Web3 Projects
 
 ### Building:
   - On-Chain data ETL pipelines (EVM, non-EVM, Tendermint, etc...)
